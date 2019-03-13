@@ -32,7 +32,7 @@
 // $assword = "password";
 // $to_addr = "yourphonenumber";
 $account = $_POST["account"];
-$assword = $_POST["password"];
+$password = $_POST["password"];
 $to_addr = $_POST["to_addr"];
 
 // 注意：需安裝 mbstring 模組 apt-get install php-mbstring
